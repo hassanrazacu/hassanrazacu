@@ -2,7 +2,7 @@
 
 **Senior Android Developer** based in Lahore, Pakistan with 5+ years of experience building production-grade mobile applications across **FinTech**, **IoT**, and **enterprise** domains. I work across the full development cycle — architecture design, SDK integration, CI/CD pipelines, and field deployment.
 
-### 🌐 [View My Portfolio Website → hassanrazacu.github.io](https://hassanrazacu.github.io)
+### 🌐 [View My Portfolio Website → hassanrazacu.github.io](https://hassanrazacu.github.io/hassanrazacu/)
 
 ---
 
